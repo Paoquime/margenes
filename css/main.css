@@ -1,0 +1,15 @@
+.uno {	
+	text-align: center;	
+	width: 300px;
+	padding: 20px;
+	border: 15px solid #F8FB18;
+
+}
+
+.dos {
+	text-align: center;
+	width: 300px;
+	border: 15px solid #F8FB18;
+	padding: 20px;
+	margin:auto;
+}
